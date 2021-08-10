@@ -1,3 +1,3 @@
 <?php
 
-echo "what the help QQQ?";
+echo "what the help kasida?";
